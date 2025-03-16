@@ -1,3 +1,5 @@
-layout: page
-title: "Office"
-permalink: /office
+---
+layout: default
+title: Moja Podstrona
+permalink: /moja-podstrona/
+---
