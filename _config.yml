@@ -9,9 +9,10 @@ aux_links:
 
 permalink: pretty
 
-#defaults:
- # - scope:
- #     path: dokumentacja
-#      type: "pages"
-#    values:
-#      layout: "default"
+defaults:
+ - 
+ scope:
+   path: "dokumentacja"
+   type: "pages"
+ values:
+   layout: "default"
